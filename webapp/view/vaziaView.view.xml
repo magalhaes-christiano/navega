@@ -4,7 +4,7 @@
 		<pages>
 			<Page title="Title">
 				<content>
-					<Text text="essa tua navegacao está errada..."/>
+					<Text text="essa tua navegacao está ok errada..."/>
 				</content>
 			</Page>
 		</pages>
