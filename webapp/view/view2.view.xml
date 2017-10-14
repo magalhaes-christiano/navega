@@ -1,0 +1,12 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="navegacaoNavegacao.controller.view2"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+	<App >
+		<pages>
+			<Page title="{ path: 'i18n>titleview2' }" showNavButton="true" navButtonPress="onBack">
+				<content>
+					<Button text="Voltar" press="onBack"/>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
